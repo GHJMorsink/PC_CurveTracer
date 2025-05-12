@@ -1,0 +1,40 @@
+Partlist exported from D:/projects/PC_CurveTracer/hardware/PC_CurveTracer.sch at 06/05/2025 17:49
+
+Part Value     Device                       Package   Description                                MF MPN          NP OC_FARNELL OC_NEWARK VOLTAGE
+C1   100n      C-EUC1206                    C1206     CAPACITOR, European symbol                                                                
+C2   100n      C-EUC1206                    C1206     CAPACITOR, European symbol                                                                
+C3   22p       C-EUC0603                    C0603     CAPACITOR, European symbol                                                                
+C4   22p       C-EUC0603                    C0603     CAPACITOR, European symbol                                                                
+C5   22n       C-EUC1206                    C1206     CAPACITOR, European symbol                                                                
+C6   100n      C-EUC1206                    C1206     CAPACITOR, European symbol                                                                
+C7   220p      C-EUC1206                    C1206     CAPACITOR, European symbol                                                                
+C10  10uF      CPOL-EUSMCC                  SMC_C     POLARIZED CAPACITOR, European symbol                                               16V    
+CON1 MINI-USB  MINI-USB_SHIELD5P4-32005-400 32005-400 MINI USB-B R/A W/O POST 5 pol.                                unknown    unknown          
+D1   DUT       ZENER-DIODESOD80C            SOD80C    Z-Diode                                                                                   
+D2   GREEN     LEDSML0805                   SML0805   LED                                                                                       
+D3   BZX84C3V6 BZX84CSMD                    TO236     Z DIODE                                                    NP                             
+D4   BZX84C3V6 BZX84CSMD                    TO236     Z DIODE                                                    NP                             
+IC1  MEGA8-AI  MEGA8-AI                     TQFP32-08 MICROCONTROLLER                               ATMEGA8-16AU    9171371    73M8863          
+IC2  TLC272B   LM358D                       SO08      OP AMP also LM158; LM258; LM2904                                                          
+JP1  ISP       PINHD-2X3                    2X03      PIN HEADER                                                                                
+JP2  SERIAL    PINHD-1X6                    1X06      PIN HEADER                                                                                
+JP3  DEVICE    PINHD-1X5                    1X05      PIN HEADER                                                                                
+L1   Ferrite   BLM15HG601SN1                0402      EMIFIL (R) Chip Ferrite Bead for GHz Noise                                                
+R1   10K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R2   82        R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R3   82        R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R4   1K8       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R5   470       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R6   220       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R7   10K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R8   100K      R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R9   47        R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R10  100       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R11  20K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R12  10K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R13  20K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R14  10K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+R15  10K       R-EU_R1206                   R1206     RESISTOR, European symbol                                                                 
+T1   TUT       BC846                        SOT23     NPN TRANSISTOR                                                                            
+T2   TUT       -PNP-SOT89-ECB               SOT89-ECB PNP Transistror                                                                           
+X1   12MHz     CRYSTALHC49S                 HC49/S    CRYSTAL                                                       1667008    unknown          

@@ -1,0 +1,28 @@
+Fuse High Byte
+
+----------------------------------------------------------------
+Name    Bit No. Description                              Value
+RSTDISBL   7    Select if PC6 is I/O pin or RESET pin     1 (unprogrammed, PC6 is RESET-pin)
+WDTON      6    WDT always on                             1 (unprogrammed, WDT enabled by WDTCR)
+SPIEN      5    Enable Serial Program and Datadownloading 0 (programmed, SPI prog.enabled)
+CKOPT      4    Oscillator options                        1 (unprogrammed)
+EESAVE     3    EEPROM memory is preserved                1 (unprogrammed, EEPROM not preserved)
+BOOTSZ1    2    Select Boot Size                          0 (programmed)
+BOOTSZ0    1    Select Boot Size                          0 (programmed, 2K bootloader section)
+BOOTRST    0    Select Reset Vector                       0 (programmed, start in bootloader mode)
+
+
+Fuse Low Byte
+
+----------------------------------------------------------------
+Name    Bit No. Description                              Value
+BODLEVEL   7    Brown out detector trigger level          0 (programmed, 4 V)
+BODEN      6    Brown out detector enable                 1 (programmed, BOD enabled)
+SUT1       5    Select start-up time                      1 (unprogrammed)
+SUT0       4    Select start-up time                      1 (unprogrammed, slow rising power, XTL)
+CKSEL3     3    Select Clock source                       1 (unprogrammed)(2)
+CKSEL2     2    Select Clock source                       1 (unprogrammed)(2)
+CKSEL1     1    Select Clock source                       1 (unprogrammed)(2)
+CKSEL0     0    Select Clock source                       1 (unprogrammed, external XTL, 12MHz)
+
+Fuses may also be: 0xD0, 0xAF

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons/16">
+    <file>icons/Mainwin/arrows.svg</file>
+    <file>icons/Mainwin/chart.svg</file>
+    <file>icons/Mainwin/chart-line-up.png</file>
+  </qresource>
+</RCC>
